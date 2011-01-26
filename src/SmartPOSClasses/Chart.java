@@ -27,6 +27,8 @@ import org.jfree.chart.JFreeChart;
  */
 public class Chart {
 
+    //JUST TESTING GIT !
+
         public static void writeChartAsPDF(OutputStream out,
         JFreeChart chart,
         int width,
