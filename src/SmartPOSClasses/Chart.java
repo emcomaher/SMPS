@@ -28,8 +28,7 @@ import org.jfree.chart.JFreeChart;
 public class Chart {
 
     //JUST TESTING GIT !
-    //NOW MODIFIED CHART ON MAC
-
+    //HEHE JUST CHANGE IT ON HP LAPTOP AS WELL
         public static void writeChartAsPDF(OutputStream out,
         JFreeChart chart,
         int width,
